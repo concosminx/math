@@ -27,7 +27,7 @@
     
 10. Determina numerele naturale $x$ si $y$ asa incat $2^x + 3^y = 500$
     
-11. Determina ultima cifra a numarului $2^2030$
+11. Determina ultima cifra a numarului $2^{2030}$
     
 12. Stiind ca intre doua patrate perfecte nu mai exista niciun alt patrat perfect completeaza inegalitatea $\Box ^2 < 200 < \Box ^2$
     
