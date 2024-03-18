@@ -20,6 +20,6 @@
 
 10. Radu a reusit sa economiseasca in pusculita sa $215$ lei. Stiind ca a numarat $83$ de bancnote de $1$ leu sau $5$ lei, determina cate bancnote are de fiecare fel.
 
-11. In blocul cel nou din cartier sunt $25$ de apartamente cu doua sau ce trei camere. Determina cate apartamente sunt de fiecare fel, daca blocul are $65$ de camere.
+11. In blocul cel nou din cartier sunt $25$ de apartamente cu doua sau cu trei camere. Determina cate apartamente sunt de fiecare fel, daca blocul are $65$ de camere.
 
 12. Alexandra parcurge un traseu in trei zile. In prima zi a parcurs o treime din traseu, a doua zi jumatate din distanta ramasa, iar in a treia zi ultimii $33$ de km. Care este lungimea intregului traseu. 
