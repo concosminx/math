@@ -15,3 +15,7 @@
 5. Arata ca $10^{2025} - 1$ este divizibil cu $9$.
 
 6. Determina cifra $x$ pentru care numerele de forma $\overline{4x}$ si $\overline{7x}$ sunt simultan prime.
+
+7. Demonstreaza ca numerele $72\cdot12^{n}+3^{n+3}\cdot4^{n+2}$ sunt divizibile cu $21$, oricare ar fi numarul natural $n$.
+
+8. Elevii primesc urmatoarea problema: _Care este cel mai mic numar de pomi fructiferi care se pot planta si cate 12 pe rand si cate 15 pe rand?_. Alina raspunde $120$. Afirmatia Alinei este adevarata sau falsa?
