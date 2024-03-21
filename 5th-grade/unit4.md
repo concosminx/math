@@ -54,4 +54,24 @@ $$ \frac{2}{13}, \frac{x+1}{13}, \frac{y-1}{13}, \frac{2x+y}{13}, \frac{11}{13}$
 
     $$(\frac{1}{2}\cdot\frac{2}{3}\cdot\frac{3}{4}\cdot ... \frac{2021}{2022}) \cdot (\frac{2}{1}\cdot\frac{3}{2}\cdot\frac{4}{3}\cdot ... \frac{2022}{2021})$$
 
-    
+14. O croitoreasa taie o bucata de material de $5\frac{16}{21}$ metri in bucati de $\frac{11}{7}$ metri. Cate bucati obtine si care este lungimea partii de material ramase.
+
+15. Scrieti ca puteri cu acelasi exponent:
+
+    a) $5^18$ si $3^45$   b) $7^15$ si $2^35$  c) $(\frac{2}{7})^21$ si $(\frac{3}{5})^28$
+
+17. Determina numarul natural $n$ pentru care:
+
+    $$[(\frac{3}{7})^n]^6 \cdot (\frac{3}{7})^4 = (\frac{9}{49})^5$$
+
+18. Stabileste valoarea de adevar a propozitiei: $\frac{8^10}{32^6}$ este fractie echiunitara.
+
+19. Mihai parcurge cu bicicleta un traseu in trei zile. In prima zi parcurge $\frac{2}{3}$ din traseu, in a doua zi parcurge jumatate din restul traseului, iar in a treia zi parcurge restul de $10km$. Cati $km$ are intregul traseu?
+
+20. Arata ca fractia de mai jos este reductibila:
+
+   $$\frac{2^{2003} + 3}{5}$$
+
+21. Numarul $a$ este egal cu $25%$ din numarul $b$. Cat la suta din numarul $a+b$ este egal cu numarul $b$.
+
+22. Calculeaza $125%$ din [$8%$ din ($32%$ din $6000$]
