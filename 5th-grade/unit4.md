@@ -28,4 +28,30 @@ $$ \frac{2}{13}, \frac{x+1}{13}, \frac{y-1}{13}, \frac{2x+y}{13}, \frac{11}{13}$
 
 8. Ordoneaza crescator fractiile de mai jos:
 
-   $$\frac{1}{3},\frac{5}{12},\frac{7}{24},\frac{11}{6},\frac{13}{2},\frac{9}{8},\frac{17}{}$$ 
+   $$\frac{1}{3},\frac{5}{12},\frac{7}{24},\frac{11}{6},\frac{13}{2},\frac{9}{8},\frac{17}{4}$$
+
+9. Determina valorile numarului natural $n$, stiind ca cel mai mic numitor comun al fractiilor $\frac{3}{4}$ si $\frac{7}{n+2}$ este $12$.
+
+10. Efectueaza calculele si scrie rezultatul sub forma de fractie ireductibila:
+
+    a)
+
+    $$\frac{1}{27} + \frac{2}{27} + ... + \frac{26}{27}$$
+
+    b)
+
+    $$\frac{1}{5} + \frac{11}{55} + ... + \frac{1111111}{5555555}$$
+
+11. Aratati ca numarul $a$ de mai jos este numar natural:
+
+    $$a=\frac{1}{12}+\frac{1}{20}+\frac{1}{30}+\frac{5}{6}$$
+
+12. Efectueaza tinand cont de ordinea operatiilor:
+
+    $$\frac{1}{6} + \frac{1}{6}\cdot3$$
+
+13. Calculeaza:
+
+    $$(\frac{1}{2}\cdot\frac{2}{3}\cdot\frac{3}{4}\cdot ... \frac{2021}{2022}) \cdot (\frac{2}{1}\cdot\frac{3}{2}\cdot\frac{4}{3}\cdot ... \frac{2022}{2021})$$
+
+    
