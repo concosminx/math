@@ -72,5 +72,5 @@ $$ \frac{2}{13}, \frac{x+1}{13}, \frac{y-1}{13}, \frac{2x+y}{13}, \frac{11}{13}$
 
    $$\frac{2^{2003} + 3}{5}$$
 
-21. Numarul $a$ este egal cu $25\%$ din numarul $b$. Cat la suta din numarul $a+b$ este egal cu numarul $b$.
+21. Numarul $a$ este egal cu 25% din numarul $b$. Cat la suta din numarul $a+b$ este egal cu numarul $b$.
 
