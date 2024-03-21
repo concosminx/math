@@ -58,7 +58,7 @@ $$ \frac{2}{13}, \frac{x+1}{13}, \frac{y-1}{13}, \frac{2x+y}{13}, \frac{11}{13}$
 
 15. Scrieti ca puteri cu acelasi exponent:
 
-    a) $5^18$ si $3^45$   b) $7^15$ si $2^35$  c) $(\frac{2}{7})^21$ si $(\frac{3}{5})^28$
+    a) $5^{18}$ si $3^{45}$   b) $7^{15}$ si $2^{35}$  c) $(\frac{2}{7})^{21}$ si $(\frac{3}{5})^{28}$
 
 17. Determina numarul natural $n$ pentru care:
 
@@ -72,6 +72,6 @@ $$ \frac{2}{13}, \frac{x+1}{13}, \frac{y-1}{13}, \frac{2x+y}{13}, \frac{11}{13}$
 
    $$\frac{2^{2003} + 3}{5}$$
 
-21. Numarul $a$ este egal cu $25%$ din numarul $b$. Cat la suta din numarul $a+b$ este egal cu numarul $b$.
+21. Numarul $a$ este egal cu $25\%$ din numarul $b$. Cat la suta din numarul $a+b$ este egal cu numarul $b$.
 
-22. Calculeaza $125%$ din [$8%$ din ($32%$ din $6000$]
+22. Calculeaza $125%$ din [$8\%$ din ($32\%$ din $6000$)]
