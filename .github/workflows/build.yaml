@@ -23,8 +23,8 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
-    - name: Download Sphinx Binaries
+    - name: Generate the HTML files based on MarkDown files
       run: ./gradlew assemble
     - name: Show content
-      run: ls -a ./build/distributions
+      run: dir ./build/distributions
   
