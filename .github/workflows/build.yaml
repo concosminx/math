@@ -13,6 +13,11 @@ permissions:
 
 jobs:
   build:
+    #https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#permissions 
+    permissions:
+      pages: write      
+      id-token: write 
+      contents: write
 
     runs-on: windows-latest
 
