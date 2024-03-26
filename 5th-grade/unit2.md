@@ -1,3 +1,8 @@
+---
+title: Math
+---
+
+
 # Unitatea 2. Metode aritmetice de rezolvare a problemelor
 
 1. Daca $11$ ornamente de Craciun costa $121$ de lei, cat costa $15$ ornamente de acelasi fel?

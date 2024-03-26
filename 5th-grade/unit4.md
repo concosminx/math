@@ -1,3 +1,8 @@
+---
+title: Math
+---
+
+
 # Unitatea 4. Fractii ordinare
 
 1. Arata ca daca $\frac{a}{5} = \frac{b}{8}$ atunci $120a = 75b$.

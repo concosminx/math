@@ -1,0 +1,61 @@
+buildscript {
+  repositories{
+    maven { url "https://plugins.gradle.org/m2/" }
+    maven { url 'https://repo.maven.apache.org/maven2/' }
+  }
+}
+
+apply plugin: 'base'
+
+repositories {
+  maven { url 'https://repo.maven.apache.org/maven2/' }
+}
+
+task downloadBinaries (description: 'Download binaries') {
+  doLast {
+    File dirToDownload=new File(getProjectDir(),"bin");
+    if (!dirToDownload.exists()) {
+      dirToDownload.mkdirs()
+      def downloadedFile = new File(dirToDownload,"pandoc.zip") 
+      ant.get(src:"https://github.com/jgm/pandoc/releases/download/3.1.12.3/${pandocName}-windows-x86_64.zip", dest:downloadedFile.absolutePath, httpusecaches: false)    
+
+      copy {
+        from zipTree(downloadedFile)
+        into new File(projectDir, "bin")
+      }
+    
+    } else {
+      println 'Skip download.'
+    }
+  }
+}
+
+task copyFiles(type: Copy, description: 'Copies the files from sources to work dir') {
+  File workDir = new File(project.buildDir,"work");
+	workDir.mkdirs();
+  into "${workDir}"
+  from("${projectDir}/5th-grade")
+}
+
+task showDoc(dependsOn:['clean', 'downloadBinaries', 'copyFiles'], description: 'Transforms from Markdown format to HTML format') {
+  outputs.dir(new File(project.buildDir,"work"))
+  
+  doFirst {
+    def files = new File(project.buildDir,"work").listFiles()
+    files.each { aFile ->
+      exec{
+        workingDir "${project.buildDir}/work"
+        commandLine 'cmd', '/c', "..\\..\\bin\\${pandocName}\\pandoc", aFile.name, '-s', '--mathjax', '-o', aFile.name.replace(".md", ".html")
+        ignoreExitValue=true
+      }
+    }
+  }
+}
+
+task archiveDocs(type: Zip, dependsOn:['showDoc'], description: 'Creates the zip with html files') {
+  from showDoc
+  include('**/*.html') 
+  archivesBaseName = 'docs'
+}
+
+assemble.dependsOn(archiveDocs)

@@ -1,3 +1,8 @@
+---
+title: Math
+---
+
+
 # Unitatea 3. Divizibilitatea numerelor naturale
 
 1. Demonstreaza ca numarul $n=2^{25}-3\cdot2^{20}+5\cdot2^{21}$ se divide cu $13$.
