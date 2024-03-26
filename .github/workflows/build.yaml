@@ -1,13 +1,6 @@
 name: Build HTML files
 
-# on:
-#   push:
-#     branches: [ "main" ]
-#   pull_request:
-#     branches: [ "main" ]
-
-  # workflow_dispatch:
-
+#https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#patterns-to-match-branches-and-tags
 on:
   push:
     tags:
