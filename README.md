@@ -11,3 +11,5 @@
 Just some math exercises for a nephew :laughing:
 
 When a new tag is pushed the markdown files are converted to html (via PanDoc). The resulted zip file will be available with the release.
+
+----
